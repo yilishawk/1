@@ -11,14 +11,14 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/厂长.json"
     },
         {
-      "key": "csp_XBPQ_柒月影视",
-      "name": "柒月┃App",
+      "key": "csp_XBPQ_bd",
+      "name": "bd",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/柒月影视.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/1/main/bd.json"
     },
             {
       "key": "csp_XBPQ_4K影视",
