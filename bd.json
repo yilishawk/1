@@ -12,12 +12,12 @@
   "标题": "mb-0 card-title text-truncate\">&&</h3>",
   "副标题": "badge bg-pink position-absolute top-0 start-0\">&&</span>",
   "链接": "href=\"&&\"",
-  "搜索url": "https://www.91rd.com/Web/_list/{wd}/online",
+  "搜索url": "https://iask.ai/?mode=question&options[detail_level]=detailed&q={wd}+https://www.yjys.me/",
   "搜索模式": "1",
-  //"搜索二次截取": "list\":[&&]",
-  "搜索数组": " <div class=\"thumb\">&&</ul>[包含:哔嘀影视]",
+  "搜索二次截取": " Web Search Results&&</a>",
+  "搜索数组": " <a&&<div class=\"whitespace-nowrap text-xs text-gray-700 font-light truncate text-ellipsis\">",
   "搜索图片": "",
-  "搜索标题": "title=\"&&\"+alt=\"&&\"",
+  "搜索标题": "whitespace-nowrap text-[0.92rem] text-gray-800 font-normal mb-px truncate text-ellipsis\">&&</div>",
   "搜索链接": "href=\"&&\"",
   "影片类型": "类型：&&</p>",
   "导演": "导演：&&</p>",
@@ -33,7 +33,7 @@
   "播放链接": "href=\"&&\"",
   //"跳转播放链接": "url*'&&'",
  "嗅探词": "obj#.m3u8#.m3u8?#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com",
-  //"倒序播放": "0",
+  "倒序": "0",
   //"免嗅": "0"
  "筛选":{
 "1":[
