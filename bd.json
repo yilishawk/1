@@ -19,7 +19,7 @@
   "搜索数组": " <div class=\"block w-full px-6 sm:px-0 my-4 px-1 flex flex-col gap-1 shrink-0 items-start overflow-hidden\">&&</a>",
   //"搜索数组": " <a&&<div class=\"whitespace-nowrap text-xs text-gray-700 font-light truncate text-ellipsis\">",
   "搜索图片": "",
-  "搜索标题": "《&&》",
+  "搜索标题": "text-gray-800 font-normal mb-px truncate text-ellipsis\">&&</div>",
   "搜索链接": "href=\"&&\"",
   "影片类型": "类型：&&</p>",
   "导演": "导演：&&</p>",
