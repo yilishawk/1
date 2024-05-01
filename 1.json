@@ -1,5 +1,15 @@
 {
   "sites": [
+	         {
+      "key": "csp_XBPQ_追影",
+      "name": "追影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/1/main/追影.json"
+    },
        {
       "key": "csp_XBPQ_厂长",
       "name": "厂长",
