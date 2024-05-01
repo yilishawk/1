@@ -55,7 +55,7 @@
       "dtUrlId": "@href",
       "dtUrlIdR": "",
       "dtUrlName": "/text()",
-      "dtUrlNameR": "/play/(\\S+).html",
+      "dtUrlNameR": "/v_play/(\\S+).html",
       "playUrl": "https://www.czys.top/v_play/{playUrl}.html",
       "playUa": "",
       "searchUrl": "https://rebozj.pro/search/-------------.html?wd={wd}&submit=",
