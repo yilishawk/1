@@ -29,7 +29,7 @@
       "cateVodImg": "/a/img/@src",
       "cateVodImgR": "/movie/(\\w+).html",
       "cateVodMark": "/a/div/span/text()",
-      "dtUrl": "https://www.czys.top/movie/{vid}",
+      "dtUrl": "https://www.czys.top/movie/{vid}.html",
       "dtNode": "//body",
       "dtName": "//*[@class='stui-content__detail']/h1/text()",
       "dtNameR": "",
