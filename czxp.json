@@ -21,7 +21,7 @@
       "homeVodImg": "/@data-original",
       "homeVodImgR": "",
       "homeVodMark": "/span[3]/text()",
-      "cateUrl": "https://rebozj.pro/show/{cateId}-{area}-time-{class}-----{catePg}---{year}.html",
+      "cateUrl": "https://rebozj.pro/show/{cateId}--------{catePg}---.html",
       "cateVodNode": "//*[@class='stui-vodlist__box']/a",
       "cateVodName": "/@title",
       "cateVodId": "/@href",
