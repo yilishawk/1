@@ -21,8 +21,7 @@
       "homeVodImg": "/img/@src",
       "homeVodImgR": "",
       "homeVodMark": "/label[2]/text()",
-      "cateUrl": "https://www.czys.top/{cateId}/page/{catePg}",
-http://www.91dyu.com/{cateId}/index{catePg}.html
+      "cateUrl": "http://www.91dyu.com/{cateId}/index{catePg}.html",
       "cateVodNode": "//*[@class='grid-mode show-list fn-clear']/li/a",
       "cateVodName": "/img/@alt",
       "cateVodId": "/@href",
