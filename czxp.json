@@ -4,9 +4,9 @@
       "homeUrl": "https://rebozj.pro/",
       "dcVipFlag": "true",
       "dcPlayUrl": "true",
-       "cookie": "cf_clearance=95r_jsljtQcXYIxm7srp2rVklFUF7rcItof53FnUzNQ-1711798282-1.0.1.1-gzdr8iYgexZW4_WiCOH84utx5pMkDkNVSb5z1VQd1U0tTk2r1p07UqD8Hk0dvM5GpqtMyc7TRlMzRTVoiNNgmQ",
-      "pCfgJs": "https://rebozj.pro/static/js/playerconfig.js",
-      "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+       //"cookie": "cf_clearance=95r_jsljtQcXYIxm7srp2rVklFUF7rcItof53FnUzNQ-1711798282-1.0.1.1-gzdr8iYgexZW4_WiCOH84utx5pMkDkNVSb5z1VQd1U0tTk2r1p07UqD8Hk0dvM5GpqtMyc7TRlMzRTVoiNNgmQ",
+      //"pCfgJs": "https://rebozj.pro/static/js/playerconfig.js",
+      //"pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
       "cateManual": {
       "国产剧": "13",
       "电影": "1",
