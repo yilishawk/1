@@ -1,10 +1,10 @@
 {
   "sites": [
 	  	  	              {
-      "key": "csp_XPath_毒舌",
+      "key": "csp_XBPQ_毒舌",
       "name": "毒舌",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
