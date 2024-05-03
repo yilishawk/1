@@ -1,14 +1,14 @@
 {
   "sites": [
 	  	  	              {
-      "key": "csp_XPath_97",
-      "name": "97",
+      "key": "csp_XBPQ_毒蛇",
+      "name": "毒蛇",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/1/main/97.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/毒蛇.json"
     },
 	  	              {
       "key": "csp_XPath_czxp",
