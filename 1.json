@@ -40,9 +40,19 @@
       "filterable": 1,
       "ext": "http://152.32.170.60/mimang/cccc/raw/branch/master/jm.json"
     },
+	       {
+      "key": "csp_XBPQ_热播之家",
+      "name": "热播之家",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/热播之家.json"
+    },  
        {
       "key": "csp_XBPQ_厂长",
-      "name": "厂长",
+      "name": "热播之家xp",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
