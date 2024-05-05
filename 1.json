@@ -44,7 +44,7 @@
       "key": "csp_XBPQ_厂长",
       "name": "厂长",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
