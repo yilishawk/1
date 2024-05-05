@@ -20,7 +20,7 @@
   "搜索url": "https://ymck.pro/API/v2.php;post;q={wd}&size=50",
   "搜索请求头": "User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq#origin$https://ymck.pro#Cookie$cf_clearance=2qj8fr0H6QHcvqFBGHDrU6VLvMM2Nh.zWa_oLjYOAkA-1714902224-1.0.1.1-N_TCOpDht2HVzL487VbHXjw9Ngu4076692ZTtcceokneD6Vt2nTVLj6dWiz82QFINSvyFbbiVDDxz76TbK4xjw",
    "搜索模式": "1",
-  "搜索二次截取": "Base64",
+  "搜索二次截取": "Base64(WyJkYXRh&&=)",
   //"搜索数组": " <a&&<div class=\"whitespace-nowrap text-xs text-gray-700 font-light truncate text-ellipsis\">[替换:《>>标#》>>题]",
   "搜索数组": "{\"w&&tags[包含:哔滴影视]",
   "搜索图片": "icon\":\"&&\"",
