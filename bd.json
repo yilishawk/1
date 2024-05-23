@@ -7,6 +7,6 @@
       "播放链接":"href='&&'\",
       "分类":"国产电视剧$13#电视剧$2#电影$1#动漫$4#综艺$3",
       "分类url":"http://www.bahaoys.com/frim/{cateId}-{catePg}.html",
-      "搜索模式": \"1\",
+      "搜索模式": "1",
       "搜索url": "http://www.bahaoys.com/search.php?page={pg}&searchword={wd}"
     }
