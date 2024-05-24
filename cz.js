@@ -1,6 +1,6 @@
 var rule = {
   title: '',
- // host: 'https://www.subaibaiys.com/',
+  host: 'https://www.subaibaiys.com/',
   url: '/fyclass/page/fypage',
   searchUrl: '/vodsearch/**----------fypage---.html',
   searchable: 2,
