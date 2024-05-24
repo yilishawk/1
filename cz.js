@@ -12,7 +12,8 @@ var rule = {
                 'Connection': 'keep-alive',
                 'Cookie': '__51uvsct__JkC3MdljYqnA6RwM=1; __51vcke__JkC3MdljYqnA6RwM=e4c3a9ec-7ee0-5812-9ae3-eff591abbf9c; __51vuft__JkC3MdljYqnA6RwM=1711767430201; myannoun=1'
   },
-  class_parse: '.navlist li;a&&Text;a&&href',
+class_name:'电影&电视剧&综艺&动漫&日韩剧&国产剧&欧美剧&港台剧',
+class_url:'new-movie&tv-drama&3&4&16&13&15&14',
   play_parse: true,
   lazy: '',
   limit: 6,
