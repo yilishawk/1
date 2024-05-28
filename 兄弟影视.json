@@ -30,6 +30,7 @@
     //"跳转播放链接":"$&&'",
     //"二次跳转播放链接":"https://api.cnmcom.com/webcloud/relay.php?url=+跳转播放链接",
     //"三次跳转播放链接":"<video src=\"&&\"",
+      "嗅探词":".toutiaovod.com",
     "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
     "分类url":"https://vip.wwgz.cn:5200/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html;;akv",
     "分类":"国产剧$12#电影$1#电视剧$2#综艺$3#动漫$4",
