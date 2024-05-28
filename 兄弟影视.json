@@ -1,6 +1,6 @@
  {
     "站名":"农民影视",
-    "主页url":"https://vip.wwgz.cn:5200/",
+    "主页url":"https://www.wwgz.cn/",
     "头部集合": "User-Agent$Mozilla/5.0 (Linux; Android 13; 23054RA19C Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
     "简介":"+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>",
     "导演":"导演:&&</div>",
@@ -32,7 +32,7 @@
     //"三次跳转播放链接":"<video src=\"&&\"",
       "嗅探词":"video_mp4",
     "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-    "分类url":"https://vip.wwgz.cn:5200/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html;;akv",
+    "分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html;;akv",
     "分类":"国产剧$12#电影$1#电视剧$2#综艺$3#动漫$4",
     "筛选":{
     "1":[
