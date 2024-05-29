@@ -23,39 +23,6 @@ var rule = {
     class_name:'影视筛选&电影&电视剧&热门电影&高分电影&动漫电影&香港经典电影&国产剧&欧美剧&韩剧&动漫剧&漫威宇宙电影系列&速度与激情电影系列&007系列(25部正传+2部外传)',//静态分类名称拼接
     class_url:'movie_bt&new-movie&tv-drama&hot-month&high-movie&cartoon-movie&hongkong-movie&domestic-drama&american-drama&korean-drama&anime-drama&marvel-movies&fastfurious&zero-zero-seven',//静态分类标识拼接
     play_parse:true,
-    // lazy:'',
-    //lazy:`js:
-        pdfh = jsp.pdfh;
-        var html = request(input);
-        var ohtml = pdfh(html, '.videoplay&&Html');
-        var url = pdfh(ohtml, "body&&iframe&&src");
-        if (/Cloud/.test(url)) {
-            var ifrwy = request(url);
-            let code = ifrwy.match(/var url = '(.*?)'/)[1].split('').reverse().join('');
-            let temp = '';
-            for (let i = 0x0; i < code.length; i = i + 0x2) {
-                temp += String.fromCharCode(parseInt(code[i] + code[i + 0x1], 0x10))
-            }
-            input = {
-                jx: 0,
-                url: temp.substring(0x0, (temp.length - 0x7) / 0x2) + temp.substring((temp.length - 0x7) / 0x2 + 0x7),
-                parse: 0
-            }
-        } else if (/decrypted/.test(ohtml)) {
-            var phtml = pdfh(ohtml, "body&&script:not([src])&&Html");
-            eval(getCryptoJS());
-            var scrpt = phtml.match(/var.*?\\)\\);/g)[0];
-            var data = [];
-            eval(scrpt.replace(/md5/g, 'CryptoJS').replace('eval', 'data = '));
-            input = {
-                jx: 0,
-                url: data.match(/url:.*?[\\'\\"](.*?)[\\'\\"]/)[1],
-                parse: 0
-            }
-        } else {
-            input
-        }
-	`,
     isVideo:"http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
     limit:6,
     推荐:'.leibox&&li;*;*;*;*',
