@@ -56,6 +56,7 @@ var rule = {
             input
         }
 	`,
+    isVideo:"http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
     limit:6,
     推荐:'.leibox&&li;*;*;*;*',
     // double:true, // 推荐内容是否双层定位
