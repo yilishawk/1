@@ -10,6 +10,16 @@
       "filterable": 0,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/1/main/cz.js"
     },
+	  	  	      {
+      "key": "dr_ 素白白",
+      "name": "素白白",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/1/main/素白白.js"
+    },
 	  	  	              {
       "key": "csp_XBPQ_毒舌",
       "name": "毒舌",
