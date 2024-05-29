@@ -24,7 +24,7 @@ var rule = {
     class_url:'movie_bt&new-movie&tv-drama&hot-month&high-movie&cartoon-movie&hongkong-movie&domestic-drama&american-drama&korean-drama&anime-drama&marvel-movies&fastfurious&zero-zero-seven',//静态分类标识拼接
     play_parse:true,
     // lazy:'',
-    lazy:`js:
+    //lazy:`js:
         pdfh = jsp.pdfh;
         var html = request(input);
         var ohtml = pdfh(html, '.videoplay&&Html');
