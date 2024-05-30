@@ -17,7 +17,7 @@ class_url:'new-movie&tv-drama&3&4&16&13&15&14',
   图片来源:'@Referer=https://www.subaibaiys.com/@User-Agent=MOBILE_UA',
   推荐: '.bt_img;ul&&li;.lazy&&alt;.lazy&&data-original;.jidi&&span&&Text;.dytit&&a&&href',
   double: true,
-  一级: '.bt_img;ul&&li;.lazy&&alt;.lazy&&data-original;.jidi&&span&&Text;.dytit&&a&&href',
+  一级: '.bt_img&&ul&&li;img&&alt;img&&data-original;.qb&&Text;a&&href',
   二级: {
     title: 'h1&&Text;.module-info-tag&&Text',
     img: '.lazyload&&data-original',
