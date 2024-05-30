@@ -28,7 +28,7 @@ class_url:'new-movie&tv-drama&3&4&16&13&15&14',
         //是否启用辅助嗅探: 1,0
     sniffer:1,
     // 辅助嗅探规则
-    isVideo:"http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
+    isVideo:"http((?!http).){26,}\\.(wangchuanxin.top|m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
   },
   搜索: 'body .module-item;.module-card-item-title&&Text;.lazyload&&data-original;.module-item-note&&Text;a&&href;.module-info-item-content&&Text',
 }
