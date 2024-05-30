@@ -21,7 +21,7 @@ class_url:'new-movie&tv-drama&3&4&16&13&15&14',
   二级: {
     title: 'h1&&Text',
     img: '.dyimg&&img&&src',
-    desc: '.moviedteail_list&&li:eq(1)&&a&&Text;..moviedteail_list&&li:eq(5)&&a&&title;..moviedteail_list&&li:eq(7)&&a&&title',
+    desc: '.moviedteail_list&&li:eq(1)&&a&&Text;.moviedteail_list&&li:eq(5)&&a&&title;..moviedteail_list&&li:eq(7)&&a&&title',
     content: '.yp_context&&Text',
     tabs: '.mi_paly_box&&span&&Text',
     lists: 'paly_list_btn:eq(#id) a',
