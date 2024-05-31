@@ -10,8 +10,8 @@ var rule = {
   headers: {
     'User-Agent': 'MOBILE_UA',
   },
-class_name:'电影&电视剧&综艺&动漫&日韩剧&国产剧&欧美剧&港台剧',
-class_url:'new-movie&tv-drama&3&4&16&13&15&14',
+class_name:'国产剧&电影&电视剧&热门电影&高分电影&动漫电影&香港电影&欧美剧&港台剧',
+class_url:'domestic-drama&new-movie&tv-drama&hot-month&high-movie&cartoon-movie&hongkong-movie&american-drama&korean-drama',
   play_parse: true,
   lazy: '',
   limit: 6,
