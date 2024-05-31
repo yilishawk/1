@@ -1,6 +1,7 @@
 var rule = {
   title: '',
-  host: 'https://www.subaibaiys.com/',
+  host: 'https://subaibai.vip',
+  hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,".link&&a&&href");log(HOST);',
   url: '/fyclass/page/fypage',
   searchUrl: '/vodsearch/**----------fypage---.html',
   searchable: 2,
