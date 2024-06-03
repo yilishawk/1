@@ -26,6 +26,14 @@ var rule = {
     searchUrl: '/search/**----------fypage---.html',
     class_parse: '.stui-header__menu li:gt(0):lt(7);a&&Text;a&&href;.*/(.*?).html',
     tab_remove:['夸克4K'],
+      二级: {
+    title: '.stui-content__detail .title&&Text;.stui-content__detail p:eq(-2)&&Text',
+    img: '.stui-content__thumb .lazyload&&data-original',
+    desc: '.stui-content__detail p:eq(0)&&Text;.stui-content__detail p:eq(1)&&Text;.stui-content__detail p:eq(2)&&Text',
+    content: '.detail&&Text',
+    tabs: '.stui-vodlist__head h3',
+    lists: '.stui-content__playlist:eq(#id) li',
+  },
     lazy: `js:
         var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
         var url = html.url;
