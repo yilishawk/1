@@ -7,10 +7,10 @@
   "分类": "电影$movie#剧集$tv#动漫$cartoon#综艺$variety#",
   
   "分类url": "https://www.lyys8.com/list/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-  
-  "数组": "li-img cover&&</li>",
+    "二次截取": "<ul class=\"content-list\"&&<div class=\"pages\">",
+  "数组": "<li>&&</a>",
   "标题": "title=\"&&\"",
-  "副标题": "",
+  "副标题": "icon-play\"></i>&&</span>",
   "图片": "data-src=\"&&\"",
   
   "搜索模式": "1",
