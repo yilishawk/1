@@ -24,7 +24,7 @@
 //"二次跳转播放链接":"https://rebozj.pro/m3u8/API.php;post;url=+url\": \"&&\"+&time=+time\": \"&&\"+&key=+key\": \"&&\"",
 //"三次跳转播放链接":"url\": \"&&\"",
 "搜索url":"https://rebozj.pro/type/id-.html?wd={wd}",
-"搜索模式":"0",
+"搜索模式":"1",
 "搜索二次截取":"",
 "搜索数组":"",
 "搜索图片":"",
