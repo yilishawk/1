@@ -1,69 +1,49 @@
 {
-    "作者":"凯哥",
-    "站名":"耐看点播",
-//"头部集合": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36#authority$www.nkvod.com",
-    "主页url":"https://www.nkvod.us",
-    "二次截取":"<div class=\"module-items module-poster-items-base&&id=\"page\">",
-    "数组":"<a&&no-referrer",
-    "图片":"data-original=\"&&\"",
-    "标题":"title=\"&&\"",
-    "链接":"href=\"&&\"",
-    "副标题":"module-item-note\">&&</div>",
-    "简介":"style=\"line-height: 20px;\">&&</p>",
-    "导演":"导演：&&</div>",
-    "主演":"主演：&&</div>",
-    "影片年代":"更新：&&</div>",
-    "影片状态":"集数：&&</div>",
-    "搜索url":"/nk/-------------.html?wd={wd}&submit",
-    "搜索模式":"1",
-    "搜索二次截取":"<div class=\"module-items module-card-items\">&&id=\"page\">",
-    "搜索数组":"<a&&no-referrer",
-    "搜索图片":"data-original=\"&&\"",
-    "搜索标题":"title=\"&&\"",
-    "搜索链接":"href=\"&&\"",
-    //"搜索后缀":"/oftensdetail/",
-    "线路数组":"<div class=\"module-tab-item tab-item\"&&</div>",
-    "线路标题":"<span>&&</span>[替换:奇艺视频>>奇云#腾讯视频>>腾云#优酷视频>>优云#芒果视频>>芒云]",
-    "播放数组":"<div class=\"module-play-list-content  module-play-list-base\">&&</div>",
-    "播放标题":"<span>&&</span>",
-    "播放列表":"<a&&</a>",
-    "播放链接":"href=\"&&\"",
-    "分类url":"https://www.nkvod.us/show/{cateId}--------{catePg}---{year}.html",
-    "分类":"国产剧$13#电影$1#电视剧$2#综艺$3#动漫$4",
-    "嗅探词":".mp4?dis#.mp4#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-    "过滤词":"hjx.m3u8zy.top#url=#op.m3u8zy.fun#51.la#cnzz.com#baidu.com#bilibili.com",
-    //"跳转播放链接数组": "<div class=\"player-box-main\">&&</script>",
-    //"跳转播放链接": "https://jx.m3u8zy.top/player/ez.php?code=nkvod&if=1&url=+url\":\"&&\"",
-    "播放请求头":"User-Agent$Mozilla/5.0 (Linux；； Android 13；； 23054RA19C Build/TP1A.220624.014；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.116 Mobile Safari/537.36#Origin$www.nkvod.com#Referer$www.nkvod.com",
-    //"免嗅":"0",
- "筛选":{
-"2":[
-  {"key":"cateId","name":"类型","value":[
-  {"n":"全部","v":"2"},
-  {"n":"国产剧","v":"13"},
-  {"n":"港台剧","v":"14"},
-  {"n":"日韩剧","v":"15"},
-  {"n":"欧美剧","v":"16"}]},
- 
-  {"key":"year","name":"年份","value":[
-  {"n":"全部","v":""},
-  {"n":"2023","v":"2023"},
-  {"n":"2022","v":"2022"},
-  {"n":"2021","v":"2021"},
-  {"n":"2020","v":"2020"},
-  {"n":"2019","v":"2019"},
-  {"n":"2018","v":"2018"},
-  {"n":"2017","v":"2017"},
-  {"n":"2016","v":"2016"},
-  {"n":"2015","v":"2015"},
-  {"n":"2014","v":"2014"},
-  {"n":"2013","v":"2013"},
-  {"n":"2012","v":"2012"},
-  {"n":"2011","v":"2011"},
-  {"n":"2010","v":"2010"}]}],
-  
+"站名":"热播之家",
+"主页url":"https://rebozj.pro/",
+//发布页www.rebozj.vip/
+"头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#authority$rebozj.pro/#Cookie$cf_clearance=LsWc5Y6PnauGjFH6V44Ww1cv8zLuHSRQO03RxcAeIBY-1707987522-1.0-AaKRnAb9wG0ElWhbABbq9UfMKSU43afrXj1l5ooRa74P7WshhEImhF/FmFc+UugAzswJgX2xkdbzwq4U0nC4D2o=",
+"数组":"<div class=\"stui-vodlist__box\">&&</a>",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+"副标题":"pic-text text-right\">&&</span>",
+ "线路二次截取":"<ul class=\"nav nav-tabs  dpplay pull-right\">&&</ul>[不包含:夸克4K]",
+"线路数组":"<li>&&/li>",
+"线路标题":"tab\">&&</a>",
+"播放数组":"<ul class=\"stui-content__playlist clearfix sort-list\">&&</ul>",
+"状态":"类型：&&</p>",
+"导演":"导演：&&</p>",
+"主演":"主演：&&</p>",
+"简介":"display: none;\">&&</span>",
+"播放列表":"<li&&</li>",
+"播放标题":">&&</a>",
+"播放链接":"href=\"&&\"",
+//"跳转播放链接数组":"<div class=\"stui-player__video embed-responsive embed-responsive-16by9 clearfix\">&&</div>",
+//"跳转播放链接":"https://rebozj.pro/m3u8/?url=+url\":\"&&\"",
+//"二次跳转播放链接":"https://rebozj.pro/m3u8/API.php;post;url=+url\": \"&&\"+&time=+time\": \"&&\"+&key=+key\": \"&&\"",
+//"三次跳转播放链接":"url\": \"&&\"",
+"搜索url":"https://rebozj.pro/type/id-.html?wd={wd}",
+"搜索模式":"0",
+"搜索二次截取":"",
+"搜索数组":"",
+"搜索图片":"",
+"搜索标题":"",
+"搜索链接":"",
+"搜索副标题":"",
+//"搜索后缀":"/detail/",
+"嗅探词":"sf6-draftcdn-tos.pstatp.com#tos-cn-i-siecs4i2o7#.m3u8#.mp4#.m3u8?#.mp3#.m4a",
+"过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
+"播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+//"免嗅":"0",
+"分类":"国产剧$13#电影$1#电视剧$2#综艺$3",
+"分类url":"https://rebozj.pro/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+"筛选":{
 "1":[
-  {"key":"cateId","name":"类型","value":[
+{
+"key":"cateId",
+"name":"类型",
+"value":[
 {"n":"全部","v":"1"},
 {"n":"动作片","v":"6"},
 {"n":"喜剧片","v":"7"},
@@ -71,9 +51,20 @@
 {"n":"科幻片","v":"9"},
 {"n":"恐怖片","v":"10"},
 {"n":"剧情片","v":"11"},
-{"n":"战争片","v":"12"}]},
-
-  {"key":"year","name":"年份","value":[
+{"n":"战争片","v":"12"}
+]
+},
+{"key":"area",
+"name":"地区",
+"value":[
+{"n":"全部","v":""},
+{"n":"大陆","v":"大陆"},
+{"n":"香港","v":"香港"},
+{"n":"美国","v":"美国"},
+{"n":"韩国","v":"韩国"}
+]
+},
+ {"key":"year","name":"年份","value":[
   {"n":"全部","v":""},
   {"n":"2023","v":"2023"},
   {"n":"2022","v":"2022"},
@@ -93,10 +84,50 @@
   {"n":"2008","v":"2008"},
   {"n":"2006","v":"2006"},
   {"n":"2005","v":"2005"},
-  {"n":"2004","v":"2004"}]}],
-  
-"3":[
-  {"key":"year","name":"年份","value":[
+  {"n":"2004","v":"2004"}]}
+],
+"2":[
+{
+"key":"cateId",
+"name":"剧情",
+"value":[
+{"n":"全部","v":"2"},
+{"n":"大陆剧","v":"13"},
+{"n":"港台剧","v":"14"},
+{"n":"日韩剧","v":"15"},
+{"n":"欧美剧","v":"16"}
+]
+},
+{
+"key":"class",
+"name":"剧情",
+"value":[
+{"n":"全部","v":""},
+{"n":"古装","v":"古装"},
+{"n":"喜剧片","v":"喜剧"},
+{"n":"青春偶像","v":"青春偶像"},
+{"n":"家庭","v":"家庭"},
+{"n":"恐怖片","v":"恐怖"},
+{"n":"剧情片","v":"剧情"},
+{"n":"战争片","v":"战争"},
+{"n":"奇幻","v":"奇幻"},
+{"n":"历史","v":"历史"},
+{"n":"经典","v":"经典"},
+{"n":"乡村","v":"乡村"},
+{"n":"动作","v":"动作"}
+]
+},
+{"key":"area",
+"name":"地区",
+"value":[
+{"n":"全部","v":""},
+{"n":"大陆","v":"内地"},
+{"n":"香港","v":"香港"},
+{"n":"美国","v":"美国"},
+{"n":"韩国","v":"韩国"}
+]
+},
+ {"key":"year","name":"年份","value":[
   {"n":"全部","v":""},
   {"n":"2023","v":"2023"},
   {"n":"2022","v":"2022"},
@@ -114,10 +145,52 @@
   {"n":"2010","v":"2010"},
   {"n":"2009","v":"2009"},
   {"n":"2008","v":"2008"},
-  {"n":"2007","v":"2007"},
   {"n":"2006","v":"2006"},
   {"n":"2005","v":"2005"},
-  {"n":"2004","v":"2004"}]}]
-  
+  {"n":"2004","v":"2004"}]}
+],
+"100":[
+{
+"key":"cateId",
+"name":"类型",
+"value":[
+{"n":"全部","v":"3"},
+{"n":"大陆综艺","v":"28"},
+{"n":"港台综艺","v":"29"},
+{"n":"日韩综艺","v":"30"},
+{"n":"欧美综艺","v":"31"}
+]
+},
+{
+"key":"by",
+"name":"排序",
+"value":[
+{"n":"时间","v":"time"},
+{"n":"人气","v":"hits"},
+{"n":"评分","v":"score"}
+]
+}
+],
+"101":[
+{
+"key":"cateId",
+"name":"类型",
+"value":[
+{"n":"全部","v":"4"},
+{"n":"国产动漫","v":"32"},
+{"n":"日本动漫","v":"33"},
+{"n":"其他动漫","v":"35"}
+]
+},
+{
+"key":"by",
+"name":"排序",
+"value":[
+{"n":"时间","v":"time"},
+{"n":"人气","v":"hits"},
+{"n":"评分","v":"score"}
+]
+}
+]
 }
 }
