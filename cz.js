@@ -23,7 +23,7 @@ var rule = {
         4:{cateId:'4'},
         5:{cateId:'5'}
     },
-    searchUrl: '/search/**----------fypage---.html',
+    searchUrl: '/index.php/rss/index.xml?wd=**',
     class_parse: '.stui-header__menu li:gt(0):lt(7);a&&Text;a&&href;.*/(.*?).html',
     tab_remove:['夸克4K'],
       二级: {
@@ -31,7 +31,7 @@ var rule = {
     img: '.stui-content__thumb .lazyload&&data-original',
     desc: '.stui-content__detail p:eq(0)&&Text;.stui-content__detail p:eq(1)&&Text;.stui-content__detail p:eq(2)&&Text',
     content: '.detail&&Text',
-    tabs: '.stui-vodlist__head h3',
+    tabs: '.nav li',
     lists: '.stui-content__playlist:eq(#id) li',
   },
     lazy: `js:
@@ -52,5 +52,23 @@ var rule = {
             input
         }
     `,
-    搜索: '.stui-vodlist li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
+搜索:`js:
+		pdfh = jsp.pdfh, pdfa = jsp.pdfa, pd = jsp.pd;
+		let d = [];
+		var html = request(input);
+		let list = pdfa(html, "rss&&item");
+		for (var i = 0; i < list.length; i++) {
+			var title = list[i].match(/\\<title\\>(.*?)\\<\\/title\\>/)[1];
+			var desc = pdfh(list[i], 'description&&Text');
+			var cont = pdfh(list[i], 'pubdate&&Text');
+			var url = list[i].match(/\\<link\\>(.*?)\\n/)[1];
+			d.push({
+				title: title,
+				desc: desc,
+				content: cont,
+				url: url
+			})
+		}
+		setResult(d)
+	`,
 }
