@@ -21,7 +21,7 @@ var rule = {
     img: '.lazyload&&data-original',
     desc: '.module-info-item:eq(1)&&Text;.module-info-item:eq(2)&&Text;.module-info-item:eq(3)&&Text',
     content: '.module-info-introduction&&Text',
-    tabs: '.module-tab-item',
+    tabs: '.module-tab-item.tab-item',
     lists: '.module-play-list:eq(#id) a',
   },
 	搜索:`js:
