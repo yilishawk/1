@@ -11,7 +11,7 @@ var rule = {
   },
   class_parse: '.navbar-items li:gt(2):lt(8);a&&title;a&&href;/(\\d+).html',
   play_parse: true,
-	tab_remove:['夸克4K'],
+	tab_exclude:'夸克4K',
   lazy: '',
   limit: 6,
   推荐: '.tab-list.active;a.module-poster-item.module-item;.module-poster-item-title&&Text;.lazyload&&data-original;.module-item-note&&Text;a&&href',
