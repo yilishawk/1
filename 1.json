@@ -4,21 +4,21 @@
       "key": "dr_ 80",
       "name": "80",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
+      "api": "https://raw.gitmirror.com/yilishawk/js/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/1/main/cz.js"
+      "ext": "https://raw.gitmirror.com/yilishawk/1/main/cz.js"
     },
 	  	  	      {
       "key": "dr_ nk",
       "name": "nk",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
+      "api": "https://raw.gitmirror.com/yilishawk/js/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/1/main/nk.js"
+      "ext": "https://raw.gitmirror.com/yilishawk/1/main/nk.js"
     },
 	  	  	              {
       "key": "csp_XBPQ_直播",
