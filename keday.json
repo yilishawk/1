@@ -1,7 +1,7 @@
 {
     "作者":"凯哥",
     "站名":"最新4K",
-    "请求头":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+"头部集合": "User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq#Referer$https://www.kedays.org/#Cookie$a64413121=h4e14163xx; recente=%5B%7B%22vod_name%22%3A%22%E6%97%B6%E5%85%89%E6%AD%A3%E5%A5%BD%22%2C%22vod_img%22%3A%22https%3A%2F%2Fimage.baidu.com%2Fsearch%2Fdown%3Furl%3Dhttps%3A%2F%2Fpic1.imgyzzy.com%2Fupload%2Fvod%2F2024-05-31%2F17171551171.jpg%22%2C%22vod_url%22%3A%22https%3A%2F%2Fwww.kedays.org%2Fda%2F98831-3-1.html%22%2C%22vod_part%22%3A%221%22%7D%5D; guardok=ybpaI8so05FG3MRxyWiLlv1Yfa/UCfWK7RNKkZXvKyZjKurL5LKVcaa+JQ8vU2wTdco8LijXtt+ZtsriarmQUg==#Priority$u=0, i",
     "主页url":"https://www.kedays.org/",
     "二次截取":"<ul class=\"stui-vodlist clearfix\">&&<ul class=\"stui-page text-center cleafix\">",
     "数组":"<li&&</a>",
