@@ -1,5 +1,15 @@
 {
   "sites": [
+	  	  	  	              {
+      "key": "csp_XBPQ_爱看",
+      "name": "爱看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/1/main/爱看.json"
+    },
 {
       "key": "dr_ 80",
       "name": "80",
