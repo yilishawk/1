@@ -1,5 +1,15 @@
 {
   "sites": [
+	  	  	  	  	  	              {
+      "key": "XBPQ_huawei",
+      "name": "huawei",
+      "type": 3,
+      "api": "XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/yilishawk/js/master/XBPQ/华为采集.json"
+    },
 	  	  	  	  	              {
       "key": "dr_keday",
       "name": "keday",
