@@ -24,6 +24,18 @@ var rule = {
     tabs: '.dropdown-menu li',
     lists: '.stui-content__playlist:eq(#id) li',
   },
+  	sniffer:1,
+	// 辅助嗅探规则js写法
+	isVideo:`js:
+		log(input);
+		if (/m3u8\\?sign=/.test(input)) {
+			input = true
+		} else if (/index\\.m3u8/.test(input)) {
+			input = true
+		} else {
+			input = false
+		}
+	`,
   //搜索: 'ul.stui-vodlist__media:eq(0),ul.stui-vodlist:eq(0),#searchList li;a&&title;.lazyload&&data-original;.text-muted&&Text;a&&href;.text-muted:eq(-1)&&Text',
   //搜索1: 'ul.stui-vodlist&&li;a&&title;.lazyload&&data-original;.text-muted&&Text;a&&href;.text-muted:eq(-1)&&Text',
   搜索: '.col-xs-3;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
