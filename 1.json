@@ -4,7 +4,7 @@
       "key": "XBPQ_huawei",
       "name": "huawei",
       "type": 3,
-      "api": "XBPQ",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
