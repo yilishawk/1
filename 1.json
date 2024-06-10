@@ -1,14 +1,14 @@
 {
   "sites": [
 	  	  	  	  	  	              {
-      "key": "XBPQ_huawei",
-      "name": "huawei",
+      "key": "XBPQ_飞刀采集",
+      "name": "飞刀采集",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitmirror.com/yilishawk/js/master/XBPQ/华为采集.json"
+      "ext": "https://raw.gitmirror.com/yilishawk/js/master/XBPQ/飞刀采集.json"
     },
 	  	  	  	  	              {
       "key": "dr_keday",
