@@ -19,7 +19,6 @@
     "线路二次截取":"<ul class=\"dropdown-menu\">&&</ul>",
     "线路数组":"<li>&&</li>",
     "线路标题":"\">&&</a>",
-    //"播放二次截取":"downCount&&</ul>",
     "播放数组":"episodeList\":[&&]",
     "播放标题":"name\":\"&&\"",
     "播放列表":"{&&}",
@@ -30,7 +29,6 @@
     "嗅探词":"gxnewdownload.pan.wo#.mp4?#tos-cn-i-siecs4i2o7#.mp4#.m3u8#",
     "过滤词":"url#.m3u8.cloud#51.la#cnzz.com#baidu.com#bilibili.com",
     "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#origin$https://www.ruituka.com#referer$https://www.ruituka.com/#$#",
-    //"免嗅":"0",
  "筛选":{
 "lianxuju":[
   {"key":"class","name":"剧情","value":[
