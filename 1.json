@@ -22,13 +22,13 @@
     },
 	  	  	  	              {
       "key": "csp_XBPQ_爱看",
-      "name": "1080ee",
+      "name": "aikan",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitmirror.com/yilishawk/1/main/爱看.json"
+      "ext": "https://gitcode.net/u013726710/t/-/raw/master/tt.json"
     },
 {
       "key": "dr_ 80",
