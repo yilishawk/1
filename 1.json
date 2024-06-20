@@ -1,5 +1,14 @@
 {
   "sites": [
+    {
+      "key": "黄瓜",
+      "name": "黄瓜采集",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 	  	  	  	  	  	              {
       "key": "XBPQ_秒播影视",
       "name": "秒播影视",
